@@ -1,0 +1,7 @@
+term1 = 8
+term2 = 2
+print(term1+term2)    #Сумма
+print(term1-term2)    #Разница
+print(term1*term2)    #Умножение
+print(term1/term2)    #Деление
+print(term1**term2)   #Возведение в степень
